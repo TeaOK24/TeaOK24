@@ -26,7 +26,7 @@ I'm a frontend developer...
 <a href="">
   <img align="center" src="https://github-readme-stats-jqie.vercel.app/api/top-langs/?username=TeaOK24&layout=compact&theme=tokyonight&langs_count=12" width="34%"/></a>
 <a href="">
-  <img align="center" src="https://github-readme-stats-jqie.vercel.app/api?username=TeaOK24&show_icons=true&theme=tokyonight&rank_icon=percentile&custom_title=Stats" width="65%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" width="65%"/>
 </a>
 
 
