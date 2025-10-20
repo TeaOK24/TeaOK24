@@ -20,9 +20,9 @@ I'm a full stack developer...
 
 **Server:** Node, Express 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeaOK24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div style="text-align: center;">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeaOK24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![stats](https://github-readme-stats.vercel.app/api?username=TeaOK24&show_icons=true&theme=radical) [![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)  
+![stats](https://github-readme-stats.vercel.app/api?username=TeaOK24&show_icons=true&theme=radical)</div>
 
 
 ## Contribution graph
