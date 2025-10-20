@@ -23,9 +23,9 @@ I'm a full stack developer...
 ## GitHub statistics
 
 <a href="">
-  <img align="center" src="https://github-readme-stats-jqie.vercel.app/api/top-langs/?username=sanchpet&layout=compact&theme=tokyonight&langs_count=12" width="34%"/></a>
+  <img align="center" src="https://github-readme-stats-jqie.vercel.app/api/top-langs/?username=TeaOK24&layout=compact&theme=tokyonight&langs_count=12" width="34%"/></a>
 <a href="">
-  <img align="center" src="https://github-readme-stats-jqie.vercel.app/api?username=sanchpet&show_icons=true&theme=tokyonight&rank_icon=percentile&custom_title=Stats" width="65%"/>
+  <img align="center" src="https://github-readme-stats-jqie.vercel.app/api?username=TeaOK24&show_icons=true&theme=tokyonight&rank_icon=percentile&custom_title=Stats" width="65%"/>
 </a>
 
 
