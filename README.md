@@ -20,13 +20,13 @@ I'm a full stack developer...
 
 **Server:** Node, Express 
 
-<div style="text-align: center;">
+## GitHub statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeaOK24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![stats](https://github-readme-stats.vercel.app/api?username=TeaOK24&show_icons=true&theme=radical)
-
-</div>
+<a href="">
+  <img align="center" src="https://github-readme-stats-jqie.vercel.app/api/top-langs/?username=sanchpet&layout=compact&theme=tokyonight&langs_count=12" width="34%"/></a>
+<a href="">
+  <img align="center" src="https://github-readme-stats-jqie.vercel.app/api?username=sanchpet&show_icons=true&theme=tokyonight&rank_icon=percentile&custom_title=Stats" width="65%"/>
+</a>
 
 
 ## Contribution graph
