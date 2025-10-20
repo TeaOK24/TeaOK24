@@ -16,7 +16,7 @@ I'm a full stack developer...
 
 ## Tech Stack
 
-**Client:** HTML, CSS, SCSS, React,
+**Client:** HTML, CSS, SCSS, React, JS
 
 **Server:** Node, Express 
 
