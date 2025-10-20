@@ -8,16 +8,20 @@ I'm a frontend developer...
                       mb full stack
 
 
-## 🎓 Roadmap
-
-- React;
-
-
 ## 🔧 Tech Stack
 
 **Client:** HTML, CSS, SCSS, JS;
 
 **Server:** Node, Express;
+
+**Package Managers:** npm;
+
+## 🎓 Roadmap
+
+** Framework:** 
+- React;
+
+
 
 ## 📈 GitHub statistics
 
