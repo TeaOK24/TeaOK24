@@ -28,7 +28,7 @@ I'm a full stack developer...
 ## Contribution graph
 - uses: Platane/snk@v3
   with:
-    TeaOK24: ${{ github.TeaOK24 }}
+    TeaOK24: ${{ github.repository_owner }}
 
     outputs: |
       dist/github-snake.svg
