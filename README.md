@@ -3,21 +3,19 @@
 novice JS developer
 
 
-## 🚀 About Me
+## <img src="{https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-ide-}" /> About Me
 I'm a frontend developer...
                       mb full stack
 
 
-## Roadmap
+## <img src="{https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-education-}" /> Roadmap
 
-- Additional browser support
-
-- Add more integrations
+- React;
 
 
-## Tech Stack
+## <img src="{https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#orm}" /> Tech Stack
 
-**Client:** HTML, CSS, SCSS, React, JS
+**Client:** HTML, CSS, SCSS, JS
 
 **Server:** Node, Express 
 
