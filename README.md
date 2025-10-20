@@ -24,11 +24,12 @@ I'm a full stack developer...
 
 ![stats](https://github-readme-stats.vercel.app/api?username=TeaOK24&show_icons=true&theme=radical) [![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)  
 
-- uses: Platane/snk@v3
-  with:
-    github_user_name: ${{ github.repository_owner }}
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+<div style="text-align: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanchpet/sanchpet/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanchpet/sanchpet/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/sanchpet/sanchpet/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 
