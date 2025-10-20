@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 <h1>TeaOK24</h1>
-novice JS developer
+<p>novice JS developer</p>
 </div>
 
 ## 📃 About Me
