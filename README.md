@@ -13,8 +13,9 @@ I'm a frontend developer...
 - React;
 
 
-## <img src="{https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#orm}" /> Tech Stack
+## Tech Stack
 
+<img src="{https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#orm}" />
 **Client:** HTML, CSS, SCSS, JS
 
 **Server:** Node, Express 
