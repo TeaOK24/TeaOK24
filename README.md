@@ -15,8 +15,9 @@ I'm a frontend developer...
 
 ## 🔧 Tech Stack
 
-**Client:** HTML, CSS, SCSS, JS
-**Server:** Node, Express 
+**Client:** HTML, CSS, SCSS, JS;
+
+**Server:** Node, Express;
 
 ## 📈 GitHub statistics
 
