@@ -4,7 +4,8 @@ novice JS developer
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a frontend developer...
+                      mb full stack
 
 
 ## Roadmap
