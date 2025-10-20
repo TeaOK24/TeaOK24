@@ -1,26 +1,24 @@
-# TeaOK24
-
+<div style="text-align: center;">
+<h1>TeaOK24</h1>
 novice JS developer
+</div>
 
-
-## <img src="{https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-ide-}" /> About Me
+## 📃 About Me
 I'm a frontend developer...
                       mb full stack
 
 
-## <img src="{https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-education-}" /> Roadmap
+## 🎓 Roadmap
 
 - React;
 
 
-## Tech Stack
+## 🔧 Tech Stack
 
-<img src="{https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#orm}" />
 **Client:** HTML, CSS, SCSS, JS
-
 **Server:** Node, Express 
 
-## GitHub statistics
+## 📈 GitHub statistics
 
 <a href="">
   <img align="center" src="https://github-readme-stats-jqie.vercel.app/api/top-langs/?username=TeaOK24&layout=compact&theme=tokyonight&langs_count=12" width="34%"/></a>
@@ -29,7 +27,7 @@ I'm a frontend developer...
 </a>
 
 
-## Contribution graph
+## 🐍 Contribution graph
 <div style="text-align: center;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TeaOK24/TeaOK24/refs/heads/output/github-contribution-grid-snake-dark.svg" />
