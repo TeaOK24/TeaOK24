@@ -24,6 +24,8 @@ I'm a full stack developer...
 
 ![stats](https://github-readme-stats.vercel.app/api?username=TeaOK24&show_icons=true&theme=radical) [![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)  
 
+
+## Contribution graph
 <div style="text-align: center;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TeaOK24/TeaOK24/refs/heads/output/github-contribution-grid-snake-dark.svg" />
