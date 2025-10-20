@@ -16,7 +16,7 @@ I'm a full stack developer...
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
+**Client:** HTML, CSS, SCSS, React,
 
 **Server:** Node, Express 
 
